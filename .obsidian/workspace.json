@@ -11,11 +11,9 @@
             "id": "1d51908fef07d07f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/Hello World/2024-10-20-Hello World.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Hello World/devices-mockup.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Hello World/2024-10-20-Hello World.md",
+                "file": "assets/Hello World/devices-mockup.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Hello World/2024-10-20-Hello World.md",
+                "file": "assets/Hello World/devices-mockup.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Hello World/2024-10-20-Hello World.md"
+                "file": "assets/Hello World/devices-mockup.png"
               }
             }
           }
@@ -148,38 +146,38 @@
   },
   "active": "b415c78323bbf82e",
   "lastOpenFiles": [
+    "_site/assets/Hello World/mockup.png",
+    "_site/assets/Hello World/devtools-light.png",
+    "_site/assets/Hello World/devtools-dark.png",
+    "_site/assets/Hello World/devices-mockup.png",
+    "_site/assets/Hello World",
+    "assets/Hello World/devtools-dark.png",
+    "assets/Hello World/devtools-dark.png.crdownload",
+    "assets/Hello World/devtools-light.png",
+    "assets/Hello World/devtools-light.png.crdownload",
+    "assets/Hello World/mockup.png",
+    "assets/Hello World/mockup.png.crdownload",
+    "_posts/Hello World/2019-08-08-text-and-typography.md",
+    "assets/Hello World/devices-mockup.png",
+    "assets/Hello World/devices-mockup.png.crdownload",
+    "assets/Hello World",
+    "assets/新建文件夹",
+    "_posts/Hello World/2024-10-20-Hello World.md",
     "_site/posts/Learn-More/index.html",
     "_site/posts/Learn-More",
     "_site/posts/Video-Encode-Starter/index.html",
-    "_site/posts/Video-Encode-Starter",
-    "_site/categories/学习网站/index.html",
-    "_site/categories/学习网站",
-    "_site/categories/视频压制/index.html",
-    "_site/categories/视频压制",
-    "_site/tags/学习网站/index.html",
-    "_site/tags/学习网站",
-    "_site/tags/视频压制/index.html",
     "_posts/Learn More/2024-10-21-Learn More.md",
     "_posts/Encode Guide/2024-10-21-Video Encode Starter.md",
     "_posts/Windows NAS/2024-10-20-WINNAS Starter.md",
     "_posts/template.md",
-    "_posts/Hello World/2024-10-20-Hello World.md",
     "_posts/Hello World/2019-08-11-customize-the-favicon.md",
     "_posts/Hello World/2019-08-09-getting-started.md",
     "_posts/Hello World/2019-08-08-write-a-new-post.md",
-    "_posts/Hello World/2019-08-08-text-and-typography.md",
     "_posts/2024-10-20-Hello World.md",
     "_posts/WindowsNAS/2024-10-20-WINNAS Starter.md",
     "_site/assets/img/favicons/web-app-manifest-512x512.png",
     "_site/assets/img/favicons/web-app-manifest-192x192.png",
     "_site/assets/img/favicons/favicon.svg",
-    "_site/assets/img/favicons/favicon-48x48.png",
-    "assets/img/favicons/favicon-48x48.png",
-    "assets/img/favicons/favicon.svg",
-    "assets/img/favicons/web-app-manifest-512x512.png",
-    "assets/img/favicons/web-app-manifest-192x192.png",
-    "assets/img/favicons/mstile-150x150.png",
-    "assets/img/favicons/favicon-32x32.png",
     "_site/assets/lib/fontawesome-free/README.md",
     "_site/assets/lib/README.md"
   ]

@@ -6,7 +6,7 @@ description: >-
 author: cotes
 date: 2019-08-09 20:55:00 +0800
 categories: [Start]
-tags: [getting started]
+tags: [Chirpy]
 #pin: true
 media_subpath: '/assets/Hello-World'
 ---

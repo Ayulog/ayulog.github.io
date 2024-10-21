@@ -3,7 +3,7 @@ title: Chirpy 撰写新文章
 author: cotes
 date: 2019-08-08 14:10:00 +0800
 categories: [Start]
-tags: [writing]
+tags: [Chirpy]
 render_with_liquid: false
 ---
 # 原文链接：[Writing a New Post | Chirpy](https://chirpy.cotes.page/posts/write-a-new-post/)

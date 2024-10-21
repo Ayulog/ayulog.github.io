@@ -3,7 +3,7 @@ title: Chirpy 自定义网站图标
 author: cotes
 date: 2019-08-11 00:34:00 +0800
 categories: [Start]
-tags: [favicon]
+tags: [Chirpy]
 ---
 # 原文链接：[Customize the Favicon | Chirpy](https://chirpy.cotes.page/posts/customize-the-favicon/)
 

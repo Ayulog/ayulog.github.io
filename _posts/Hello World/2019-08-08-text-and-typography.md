@@ -1,11 +1,12 @@
 ---
 title: Chirpy 文本和排版
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+description: 文本、排版、数学方程式、图表、流程图、图片、视频等的示例。
 author: cotes
 date: 2019-08-08 11:33:00 +0800
-categories: [Start]
-tags: [typography]
-#pin: true
+categories:
+  - Start
+tags:
+  - typography
 math: true
 mermaid: true
 image:
@@ -14,24 +15,24 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 # 原文链接：[Text and Typography | Chirpy](https://chirpy.cotes.page/posts/text-and-typography/)
-## Headings
+## 标题
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-# H1 — heading
+# H1 — 标题
 {: .mt-4 .mb-0 }
 
-## H2 — heading
+## H2 — 标题
 {: data-toc-skip='' .mt-4 .mb-0 }
 
-### H3 — heading
+### H3 — 标题
 {: data-toc-skip='' .mt-4 .mb-0 }
 
-#### H4 — heading
+#### H4 — 标题
 {: data-toc-skip='' .mt-4 }
 <!-- markdownlint-restore -->
 
-## Paragraph
+## 段落
 
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
 

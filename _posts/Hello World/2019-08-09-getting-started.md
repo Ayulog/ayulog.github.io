@@ -10,6 +10,7 @@ tags: [getting started]
 #pin: true
 media_subpath: '/posts/20180809'
 ---
+# 原文链接：[Getting Started | Chirpy](https://chirpy.cotes.page/posts/getting-started/)
 
 ## Creating a Site Repository
 

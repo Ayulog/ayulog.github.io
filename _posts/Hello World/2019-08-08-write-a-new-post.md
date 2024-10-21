@@ -6,6 +6,7 @@ categories: [Start]
 tags: [writing]
 render_with_liquid: false
 ---
+# 原文链接：[Writing a New Post | Chirpy](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
 

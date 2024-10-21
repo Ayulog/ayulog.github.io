@@ -7,19 +7,19 @@ tags:
   - Windows Nas
 ---
 
-一、底层系统
+# 一、底层系统
 底层系统选择Windows Server 2022
-（一）系统安装
+## （一）系统安装
 下载：
 初始安装参考B站UP:HUGO驼驼视频。
 [用windows server 2022安装自己的WINDOWS NAS_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mr4y1k7cE/?spm_id_from=333.999.0.0)
-（二）系统激活
+## （二）系统激活
 系统激活使用KMS方式，教程参看肥猫大佬网站。
 [大客户VL版本Windows客户端加域自动激活详细教程](https://www.mr-mao.cn/archives/vl_windows_join_dc_auto_activation.html)
-（三）更改远程连接端口
+## （三）更改远程连接端口
 Windows默认远程连接为3389，建议更改为高位端口。
-二、下载器
-（一）qbittorrent
+# 二、下载器
+## （一）qbittorrent
 [qbittorrent 官网](https://www.qbittorrent.org/)
 配置
 Windows多开qbittorrent方法
@@ -27,19 +27,19 @@ Windows多开qbittorrent方法
 将原qbittorrent配置文件夹下面全部文件复制到profile文件夹内，删除种子即可
 ![[Pasted image 20240415200847.png]]
 ![[Pasted image 20240415200826.png]]
-（二）transmission
+## （二）transmission
 [Transmission 官网](https://transmissionbt.com/)
 1.传统WEBUI[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)
 2.Remote GUI，暂无中文[openscopeproject/TrguiNG](https://github.com/openscopeproject/TrguiNG)
 3.jayzcoder/TrguiNG: Transmission WebUI [基于 openscopeproject/TrguiNG 汉化和改进 ](https://github.com/jayzcoder/TrguiNG)
-三、媒体库
+# 三、媒体库
 （一）Emby
 [Emby 官网](https://emby.media/)
 （二）Plex
 [Plex 官网](https://www.plex.tv/)
 （三）Jellyfin
 [Jellyfin 官网](https://jellyfin.org/)
-四、虚拟机VMWare Workstation
+# 四、虚拟机VMWare Workstation
 [虚拟机开机自启动、随宿主机开机自启](https://blog.csdn.net/Dontla/article/details/132762521)
 [B站VMWare Workstation安装各类系统-大大鹅体验个人主页](https://space.bilibili.com/517246386)
 （一）黑群晖
@@ -52,7 +52,7 @@ Windows多开qbittorrent方法
 [VMware虚拟机安装软路由系统iStoreOS](https://www.cpolar.com/blog/vmware-virtual-machines-install-the-soft-routing-system-istoreos)
 （四）小雅Alist
 [小雅Windows VMware系统成](https://p.kdocs.cn/s/7VXZW6IZABADA)
-五、PT
+# 五、PT
 （一）IYUU
 [IYUUPlus官网](https://www.iyuu.cn)
 [IYUUDev](https://doc.iyuu.cn)
@@ -76,7 +76,7 @@ Windows多开qbittorrent方法
 （四）Lucky
 [Lucky 官网)](https://lucky666.cn/)
 
-六、Windows文件共享
+# 六、Windows文件共享
 （一)Alist搭建
 1.桌面端安装
 2.本地存储挂载

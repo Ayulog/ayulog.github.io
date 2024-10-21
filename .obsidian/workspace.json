@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/WindowsNAS/2024-10-20-WINNAS Starter.md",
+                "file": "_posts/Hello World/2024-10-20-Hello World.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/WindowsNAS/2024-10-20-WINNAS Starter.md",
+                "file": "_posts/Hello World/2024-10-20-Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/WindowsNAS/2024-10-20-WINNAS Starter.md",
+                "file": "_posts/Hello World/2024-10-20-Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/WindowsNAS/2024-10-20-WINNAS Starter.md"
+                "file": "_posts/Hello World/2024-10-20-Hello World.md"
               }
             }
           }
@@ -146,21 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d51908fef07d07f",
+  "active": "b415c78323bbf82e",
   "lastOpenFiles": [
-    "_site/categories/start/index.html",
-    "_site/categories/start",
-    "_site/posts/WINNAS-Starter/index.html",
-    "_site/posts/WINNAS-Starter",
-    "_site/categories/windows-nas/index.html",
-    "_site/categories/windows-nas",
-    "_site/tags/windows-nas/index.html",
-    "_site/tags/windows-nas",
+    "_site/posts/Learn-More/index.html",
+    "_site/posts/Learn-More",
+    "_site/posts/Video-Encode-Starter/index.html",
+    "_site/posts/Video-Encode-Starter",
+    "_site/categories/学习网站/index.html",
+    "_site/categories/学习网站",
+    "_site/categories/视频压制/index.html",
+    "_site/categories/视频压制",
+    "_site/tags/学习网站/index.html",
+    "_site/tags/学习网站",
+    "_site/tags/视频压制/index.html",
+    "_posts/Learn More/2024-10-21-Learn More.md",
+    "_posts/Encode Guide/2024-10-21-Video Encode Starter.md",
+    "_posts/Windows NAS/2024-10-20-WINNAS Starter.md",
+    "_posts/template.md",
+    "_posts/Hello World/2024-10-20-Hello World.md",
+    "_posts/Hello World/2019-08-11-customize-the-favicon.md",
+    "_posts/Hello World/2019-08-09-getting-started.md",
+    "_posts/Hello World/2019-08-08-write-a-new-post.md",
+    "_posts/Hello World/2019-08-08-text-and-typography.md",
     "_posts/2024-10-20-Hello World.md",
     "_posts/WindowsNAS/2024-10-20-WINNAS Starter.md",
-    "_site/posts/2024-10-20-WINNAS-Starter/index.html",
-    "_site/posts/2024-10-20-WINNAS-Starter",
-    "_site/posts/WINNAS-Start/index.html",
     "_site/assets/img/favicons/web-app-manifest-512x512.png",
     "_site/assets/img/favicons/web-app-manifest-192x192.png",
     "_site/assets/img/favicons/favicon.svg",
@@ -172,7 +181,6 @@
     "assets/img/favicons/mstile-150x150.png",
     "assets/img/favicons/favicon-32x32.png",
     "_site/assets/lib/fontawesome-free/README.md",
-    "_site/assets/lib/README.md",
-    "_posts/template.md"
+    "_site/assets/lib/README.md"
   ]
 }

@@ -1,8 +1,12 @@
 ---
-title: "你的标题"
+title: 你的标题
 date: YYYY-MM-DD HH:MM:SS +/+0800
-categories: [主分类, 子分类]
-tags: [标签1, 标签2]
+categories:
+  - 主分类
+  - 子分类
+tags:
+  - 标签1
+  - 标签2
 ---
 
 这里是你的文章内容。你可以使用 Markdown 语法来格式化文本。

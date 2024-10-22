@@ -1,13 +1,16 @@
 ---
 title: Windows Nas Starter
 date: 2024-10-21 09:00:00 +/+0800
+#自定义文章描述，不显示文章自动生成的描述
+description: Windows Nas 从入门到养老
 categories:
-  - Windows Nas
+  - winnas
 tags:
-  - Windows Nas
+  - winnas
+  - 目录
 ---
 
-# 底层系统
+# 系统选择
 底层系统选择Windows Server 2022
 ## 系统安装
 下载：

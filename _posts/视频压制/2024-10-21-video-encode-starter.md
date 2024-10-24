@@ -53,11 +53,11 @@ tags:
 
 [x265：](https://www.x265.org/)：x265 HEVC Encoder / H.265 Video Codec
 
-[Avisynth：](http://avisynth.nl/index.php)：Avisynth wiki
+[Avisynth：](https://avisynth.nl/index.php)：Avisynth wiki
 
 [AvsPmod：](https://github.com/gispos/AvsPmod)：GitHub - gispos/AvsPmod: An AviSynth script editor
 
-[Vapoursynth:](http://www.vapoursynth.com)：The future home of VapourSynth… 3000!
+[Vapoursynth:](https://www.vapoursynth.com)：The future home of VapourSynth… 3000!
 
 [VapourSynth-Editor by YomikoR：](https://github.com/YomikoR/VapourSynth-Editor/releases/)
 
@@ -77,7 +77,7 @@ tags:
 
 [qaac：](https://github.com/nu774/qaac)
 
-[AudioMuxer:](http://www.surroundbyus.com/sbu/viewtopic.php?p=788#p788)
+[AudioMuxer:](https://www.surroundbyus.com/sbu/viewtopic.php?p=788#p788)
 
 [Subtitle Edit：](https://www.nikse.dk/subtitleedit)
 
@@ -86,7 +86,7 @@ tags:
 [DEEW:](https://pterclub.com/forums.php?action=viewtopic&forumid=44&topicid=6426)
 
 ## 一站式压制软件：
-[Avidemux:](http://avidemux.sourceforge.net)
+[Avidemux:](https://avidemux.sourceforge.net)
 
 [handbrake:](https://handbrake.fr)
 

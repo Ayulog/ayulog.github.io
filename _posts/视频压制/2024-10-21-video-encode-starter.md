@@ -37,37 +37,37 @@ tags:
 
 [Encode Mystery](https://guide.geeking.moe)
 
-[iAvoe的x264和x265参数讲解](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)[GitHub - iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial: 主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)：
+[iAvoe的x264和x265参数讲解](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)GitHub - iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial: 主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial
 
-[FRDS组压制基础教程](https://github.com/ted423/FXXS-Encode-Guide/blob/main/%E5%8E%8B%E5%88%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.md)[FXXS-Encode-Guide/压制基础教程.md at main · FXXS-Encoder/FXXS-Encode-Guide · GitHub](https://github.com/ted423/FXXS-Encode-Guide/blob/main/%E5%8E%8B%E5%88%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.md)：
+[FRDS组压制基础教程](https://github.com/ted423/FXXS-Encode-Guide/blob/main/%E5%8E%8B%E5%88%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.md)
 
-[动漫x265教程：](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)[Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC) – Kokomins](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
+[动漫x265教程：](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
 
 # 软件篇
 ## 工具：
-[Simple-x264-Launcher：](https://github.com/lordmulder/Simple-x264-Launcher)[GitHub - lordmulder/Simple-x264-Launcher: Simple x264/x265 Launcher](https://github.com/lordmulder/Simple-x264-Launcher)
+[Simple-x264-Launcher：](https://github.com/lordmulder/Simple-x264-Launcher)
 
-[VLC：](https://www.videolan.org/vlc/)[官方下载：VLC media player，最棒的开源播放器 - VideoLAN](https://www.videolan.org/vlc/)
+[VLC：](https://www.videolan.org/vlc/)：官方下载：VLC media player，最棒的开源播放器
 
-[x264：](https://www.videolan.org/developers/x264.html)[x264, the best H.264/AVC encoder - VideoLAN](https://www.videolan.org/developers/x264.html)
+[x264：](https://www.videolan.org/developers/x264.html)：x264, the best H.264/AVC encoder 
 
-[x265：](https://www.x265.org/)[x265 HEVC Encoder / H.265 Video Codec](https://www.x265.org/)
+[x265：](https://www.x265.org/)：x265 HEVC Encoder / H.265 Video Codec
 
-[Avisynth：](http://avisynth.nl/index.php/Main_Page)[Avisynth wiki](http://avisynth.nl/index.php/Main_Page)
+[Avisynth：](http://avisynth.nl/index.php)：Avisynth wiki
 
-[AvsPmod：](https://github.com/gispos/AvsPmod)[GitHub - gispos/AvsPmod: An AviSynth script editor](https://github.com/gispos/AvsPmod)
+[AvsPmod：](https://github.com/gispos/AvsPmod)：GitHub - gispos/AvsPmod: An AviSynth script editor
 
-[Vapoursynth:](http://www.vapoursynth.com/)[VapourSynth | The future home of VapourSynth… 3000!](http://www.vapoursynth.com/)
+[Vapoursynth:](http://www.vapoursynth.com)：The future home of VapourSynth… 3000!
 
-[VapourSynth-Editor by YomikoR：](https://github.com/YomikoR/VapourSynth-Editor/releases/)[Releases · YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor/releases/)
+[VapourSynth-Editor by YomikoR：](https://github.com/YomikoR/VapourSynth-Editor/releases/)
 
-[VSRepoGUI：](https://github.com/theChaosCoder/VSRepoGUI/releases)[Releases · theChaosCoder/VSRepoGUI](https://github.com/theChaosCoder/VSRepoGUI/releases)
+[VSRepoGUI：](https://github.com/theChaosCoder/VSRepoGUI/releases)
 
-[MakeMKV：](https://www.makemkv.com/)[MakeMKV - Make MKV from Blu-ray and DVD](https://www.makemkv.com/)
+[MakeMKV：](https://www.makemkv.com)：MakeMKV - Make MKV from Blu-ray and DVD
 
-[FFmpeg：](https://ffmpeg.org/)[FFmpeg](https://ffmpeg.org/)
+[FFmpeg：](https://ffmpeg.org)
 
-[Mkvtoolnix：](https://mkvtoolnix.download/)
+[Mkvtoolnix：](https://mkvtoolnix.download)
 
 [MediaInfo：](https://mediaarea.net/MediaInfo)
 
@@ -81,22 +81,22 @@ tags:
 
 [Subtitle Edit：](https://www.nikse.dk/subtitleedit)
 
-[VapourSynth Database：](https://vsdb.top/)
+[VapourSynth Database：](https://vsdb.top)
 
 [DEEW:](https://pterclub.com/forums.php?action=viewtopic&forumid=44&topicid=6426)
 
 ## 一站式压制软件：
-[Avidemux:](http://avidemux.sourceforge.net/)
+[Avidemux:](http://avidemux.sourceforge.net)
 
-[handbrake:](https://handbrake.fr/)
+[handbrake:](https://handbrake.fr)
 
 [staxrip:](https://github.com/staxrip/staxrip)
 
-[megui:](https://sourceforge.net/projects/megui/)
+[megui:](https://sourceforge.net/projects/megui)
 
-[Hybrid:](https://www.selur.de/)
+[Hybrid:](https://www.selur.de)
 
-[小丸工具箱:](https://maruko.appinn.me/)
+[小丸工具箱:](https://maruko.appinn.me)
 
 # 参考脚本
 [Encode Scripts：](https://git.concertos.live/OpusGang/EncodeScripts)

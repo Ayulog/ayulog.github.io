@@ -9,7 +9,7 @@ tags:
   - 视频压制
   - 目录
 ---
-# 相关网站
+## 相关网站
 [Doom9论坛](https://forum.doom9.org/index.php)
 
 [VideoHelp](https://www.videohelp.com)
@@ -24,7 +24,7 @@ tags:
 
 [Eac3to wiki](https://en.wikibooks.org/wiki/Eac3to)
 
-# 公开教程
+## 公开教程
 [VCB-Studio教程专栏](https://vcb-s.nmm-hd.org)：
 
 [VCB-Studio 公开教程](https://guides.vcb-s.com)
@@ -43,8 +43,7 @@ tags:
 
 [动漫x265教程：](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
 
-# 软件篇
-## 工具：
+## 工具
 [Simple-x264-Launcher：](https://github.com/lordmulder/Simple-x264-Launcher)
 
 [VLC：](https://www.videolan.org/vlc/)：官方下载：VLC media player，最棒的开源播放器
@@ -85,7 +84,7 @@ tags:
 
 [DEEW:](https://pterclub.com/forums.php?action=viewtopic&forumid=44&topicid=6426)
 
-## 一站式压制软件：
+## 一站式压制软件
 [Avidemux:](https://avidemux.sourceforge.net)
 
 [handbrake:](https://handbrake.fr)
@@ -98,5 +97,5 @@ tags:
 
 [小丸工具箱:](https://maruko.appinn.me)
 
-# 参考脚本
+## 参考脚本
 [Encode Scripts：](https://git.concertos.live/OpusGang/EncodeScripts)

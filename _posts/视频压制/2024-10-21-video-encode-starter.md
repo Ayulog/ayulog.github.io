@@ -82,7 +82,7 @@ tags:
 
 [VapourSynth Database](https://vsdb.top)
 
-[DEEW:](https://pterclub.com/forums.php?action=viewtopic&forumid=44&topicid=6426)
+[DEEW](https://github.com/pcroland/deew)
 
 ## 一站式压制软件
 [Avidemux:](https://avidemux.sourceforge.net)

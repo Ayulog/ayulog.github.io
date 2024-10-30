@@ -37,50 +37,50 @@ tags:
 
 [Encode Mystery](https://guide.geeking.moe)
 
-[iAvoe的x264和x265参数讲解](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)GitHub - iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial: 主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial
+[iAvoe的x264和x265参数讲解](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)
 
 [FRDS组压制基础教程](https://github.com/ted423/FXXS-Encode-Guide/blob/main/%E5%8E%8B%E5%88%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.md)
 
-[动漫x265教程：](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
+[动漫x265教程](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
 
 ## 工具
-[Simple-x264-Launcher：](https://github.com/lordmulder/Simple-x264-Launcher)
+[Simple-x264-Launcher](https://github.com/lordmulder/Simple-x264-Launcher)
 
-[VLC：](https://www.videolan.org/vlc/)：官方下载：VLC media player，最棒的开源播放器
+[VLC](https://www.videolan.org/vlc/)：官方下载：VLC media player，最棒的开源播放器
 
-[x264：](https://www.videolan.org/developers/x264.html)：x264, the best H.264/AVC encoder 
+[x264](https://www.videolan.org/developers/x264.html)：x264, the best H.264/AVC encoder 
 
-[x265：](https://www.x265.org/)：x265 HEVC Encoder / H.265 Video Codec
+[x265](https://www.x265.org/)：x265 HEVC Encoder / H.265 Video Codec
 
-[Avisynth：](https://avisynth.nl/index.php)：Avisynth wiki
+[Avisynth](https://avisynth.nl/index.php)：Avisynth wiki
 
-[AvsPmod：](https://github.com/gispos/AvsPmod)：GitHub - gispos/AvsPmod: An AviSynth script editor
+[AvsPmod](https://github.com/gispos/AvsPmod)：GitHub - gispos/AvsPmod: An AviSynth script editor
 
-[Vapoursynth:](https://www.vapoursynth.com)：The future home of VapourSynth… 3000!
+[Vapoursynth](https://www.vapoursynth.com)：The future home of VapourSynth… 3000!
 
-[VapourSynth-Editor by YomikoR：](https://github.com/YomikoR/VapourSynth-Editor/releases/)
+[VapourSynth-Editor by YomikoR](https://github.com/YomikoR/VapourSynth-Editor/releases/)
 
-[VSRepoGUI：](https://github.com/theChaosCoder/VSRepoGUI/releases)
+[VSRepoGUI](https://github.com/theChaosCoder/VSRepoGUI/releases)
 
-[MakeMKV：](https://www.makemkv.com)：MakeMKV - Make MKV from Blu-ray and DVD
+[MakeMKV](https://www.makemkv.com)：MakeMKV - Make MKV from Blu-ray and DVD
 
-[FFmpeg：](https://ffmpeg.org)
+[FFmpeg](https://ffmpeg.org)
 
-[Mkvtoolnix：](https://mkvtoolnix.download)
+[Mkvtoolnix](https://mkvtoolnix.download)
 
-[MediaInfo：](https://mediaarea.net/MediaInfo)
+[MediaInfo](https://mediaarea.net/MediaInfo)
 
-[Eac3to：](https://forum.doom9.org/showthread.php?t=125966)
+[Eac3to](https://forum.doom9.org/showthread.php?t=125966)
 
 [UsEac3to:](https://forum.doom9.org/showthread.php?t=145574)
 
-[qaac：](https://github.com/nu774/qaac)
+[qaac](https://github.com/nu774/qaac)
 
 [AudioMuxer:](https://www.surroundbyus.com/sbu/viewtopic.php?p=788#p788)
 
-[Subtitle Edit：](https://www.nikse.dk/subtitleedit)
+[Subtitle Edit](https://www.nikse.dk/subtitleedit)
 
-[VapourSynth Database：](https://vsdb.top)
+[VapourSynth Database](https://vsdb.top)
 
 [DEEW:](https://pterclub.com/forums.php?action=viewtopic&forumid=44&topicid=6426)
 
@@ -98,4 +98,4 @@ tags:
 [小丸工具箱:](https://maruko.appinn.me)
 
 ## 参考脚本
-[Encode Scripts：](https://git.concertos.live/OpusGang/EncodeScripts)
+[Encode Scripts](https://git.concertos.live/OpusGang/EncodeScripts)

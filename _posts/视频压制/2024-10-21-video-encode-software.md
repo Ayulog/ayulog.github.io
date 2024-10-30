@@ -18,10 +18,10 @@ tags:
 根据需要部署不同版本的软件及依赖。
 
 ### VapourSynth
-VapourSynth，简称 VS，官网是 https://www.vapoursynth.com。可以在 [Github] (https://github.com/vapoursynth/vapoursynth/releases) 上下载最新版本，包括安装版和便携版。
+[VapourSynth](https://www.vapoursynth.com)，简称 VS 。可以在[Github](https://github.com/vapoursynth/vapoursynth/releases)下载最新版本，包括安装版和便携版。
 VS 项目开发者在 R55 引入了全新的 API4，这导致了严重的兼容性问题：API4 的 VS 虽然能够同时支持新的 API4 滤镜和旧的 API3 滤镜，但却不支持 API3 脚本。需要根据自己使用的滤镜来选择版本，笔者对动滤镜的需求不高，这里以R70版本安装为例。
 
-前往 Github https://github.com/vapoursynth/vapoursynth/releases 下载，选择安装版本。
+前往 [Github](https://github.com/vapoursynth/vapoursynth/releases)下载，选择安装版本。
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-vs1.png)
 
 下载完成打开安装软件，选择 为所有人安装 
@@ -31,7 +31,7 @@ VS 项目开发者在 R55 引入了全新的 API4，这导致了严重的兼容�
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-vs3.png)
 
 ### Python安装
-python 官网：https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe
+python 官网：[下载](https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe)
 
 选择个性化安装，勾选如图两个选项
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-py1.png)
@@ -70,8 +70,8 @@ VSRepo：用于下载VS相关库
 这里提供几种常用的预览器：
 #### VapourSynth Editor
 VS Editor是目前较为广泛使用的VS编辑器。项目地址：https://github.com/YomikoR/VapourSynth-Editor
-下载后，直接解压即可使用。VS Editor跟vs版本仍需要相适应，这里我们安装 VapourSynth Editor R19-mod-6.8 
-https://github.com/YomikoR/VapourSynth-Editor/releases/download/R19-mod-6.8/VapourSynth.Editor-r19-mod-6.8-setup.exe
+下载后，直接解压即可使用。VS Editor跟vs版本仍需要相适应，这里我们安装 [VapourSynth Editor R19-mod-6.8](https://github.com/YomikoR/VapourSynth-Editor/releases/download/R19-mod-6.8/VapourSynth.Editor-r19-mod-6.8-setup.exe)
+
 
 下载完成后点击安装，选择 为所有人安装
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-vse1.png)
@@ -85,14 +85,15 @@ https://github.com/YomikoR/VapourSynth-Editor/releases/download/R19-mod-6.8/Vapo
 一路点击next完成安装
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-vse4.png)
 
- 继续安装依赖项 Runtime dependencies:Microsoft Visual C++ Redistributable X64. https://aka.ms/vs/17/release/vc_redist.x64.exe
+ 继续安装依赖项 Runtime dependencies:[Microsoft Visual C++ Redistributable X64.](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 ### VSRepoGUI
 官方提供了方便的下载管理插件以及脚本的GUI界面，通过软件可以查看对应的VS安装信息和脚本插件的所在位置，同时可以实现对插件的脚本安装、更新和卸载，软件插件安装位置，再右上角可以快速点开。在Windows下推荐本软件进行维护插件和脚本。
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-vs10.png)
 
-项目地址：https://github.com/theChaosCoder/VSRepoGUI
-下载：https://github.com/theChaosCoder/VSRepoGUI/releases/download/v0.9.8/VSRepoGUI-0.9.8.zip
+项目地址：
+- [VSRepoGUI](https://github.com/theChaosCoder/VSRepoGUI)
+- [下载](https://github.com/theChaosCoder/VSRepoGUI/releases/download/v0.9.8/VSRepoGUI-0.9.8.zip)
 
 下载解压后点开后即可使用，推荐放在VS的安装目录内。
 ![Desktop View](/assets/video-encode/2024-10-23_21-08-54-vs9.png)
@@ -104,4 +105,4 @@ https://github.com/YomikoR/VapourSynth-Editor/releases/download/R19-mod-6.8/Vapo
 
 ### 原盘抽流软件
 
-HD DVD/Blu-Ray Stream Extractor:eac3to 有一个方便的 GUI，叫做 HD DVD/Blu-Ray Stream Extractor，它作为一个工具集成在 MeGUI 中。https://sourceforge.net/projects/megui/
+HD DVD/Blu-Ray Stream Extractor:eac3to 有一个方便的 GUI，叫做 HD DVD/Blu-Ray Stream Extractor，它作为一个工具集成在 MeGUI 中，[`点击下载`](https://sourceforge.net/projects/megui/)
